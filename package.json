@@ -1,0 +1,24 @@
+{
+  "name": "Falcor-Demo",
+  "version": "0.0.1",
+  "description": "learning Falcor",
+  "main": "index.js",
+  "scripts": {
+    "test": "goTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soupala/falcor-demo.git"
+  },
+  "author": "Mica Cardillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soupala/falcor-demo/issues"
+  },
+  "homepage": "https://github.com/Soupala/falcor-demo",
+  "dependencies": {
+    "express": "^4.13.3",
+    "falcor-express": "^0.1.2",
+    "falcor-router": "^0.2.9"
+  }
+}
